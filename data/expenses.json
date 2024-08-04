@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "description": "Coffee",
+        "amount": 3.5,
+        "date": "2024-09-01"
+    },
+    {
+        "id": "2",
+        "description": "Lunch",
+        "amount": 12.0,
+        "date": "2024-08-02"
+    },
+    {
+        "id": "3",
+        "description": "Groceries",
+        "amount": 45.75,
+        "date": "2024-08-03"
+    },
+    {
+        "id": "4",
+        "description": "Utilities",
+        "amount": 120.0,
+        "date": "2024-08-04"
+    },
+    {
+        "id": "5",
+        "description": "Gym Membership",
+        "amount": 30.0,
+        "date": "2024-08-05"
+    }
+]
